@@ -10,9 +10,10 @@ This research is expected to unveil key determinants of guest satisfaction, prov
 
 This project utilizes two primary datasets from Inside Airbnb:
 
-Listings Dataset: Contains detailed information on Airbnb listings in Toronto, including attributes like price, location, amenities, and host ratings.
+Listings Dataset: Contains detailed information on Airbnb listings in Toronto, including attributes like price, location, amenities, and host ratings. http://data.insideairbnb.com/canada/on/toronto/2024-02-14/data/listings.csv.gz
 
 Reviews Dataset: Comprises guest reviews for the listings, providing rich textual data for sentiment analysis and text mining.
+http://data.insideairbnb.com/canada/on/toronto/2024-02-14/data/reviews.csv.gz
 
 **Repository Contents**
 
